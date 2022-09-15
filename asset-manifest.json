@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://charanrajeev.github.io/csb-bmih97/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://charanrajeev.github.io/csb-bmih97/static/js/main.94bdc46e.chunk.js",
+    "main.js.map": "https://charanrajeev.github.io/csb-bmih97/static/js/main.94bdc46e.chunk.js.map",
+    "runtime-main.js": "https://charanrajeev.github.io/csb-bmih97/static/js/runtime-main.d2271ec8.js",
+    "runtime-main.js.map": "https://charanrajeev.github.io/csb-bmih97/static/js/runtime-main.d2271ec8.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://charanrajeev.github.io/csb-bmih97/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://charanrajeev.github.io/csb-bmih97/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://charanrajeev.github.io/csb-bmih97/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://charanrajeev.github.io/csb-bmih97/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://charanrajeev.github.io/csb-bmih97/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2271ec8.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.94bdc46e.chunk.js"
+  ]
+}
